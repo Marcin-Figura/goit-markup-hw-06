@@ -269,7 +269,7 @@ img {
 .modal-policy-box:checked + .modal-policy-text::before{
   background-color: var(--main-color);
   border: none;
-  background-image: url(/images/check.svg);
+  background-image: url("../images/check.svg");
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
