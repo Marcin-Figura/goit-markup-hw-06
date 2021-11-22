@@ -443,10 +443,11 @@ img {
   background-color: #2F303A;
   background-image: 
     linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
-   url("../images/background-hero.png");
+    url("../images/background-hero.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 
 .hero .container {
   display: flex;
